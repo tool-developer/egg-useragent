@@ -1,0 +1,62 @@
+{
+  "name": "@tool-developer/egg-useragent",
+  "version": "0.0.2",
+  "description": "useragent plugin for egg",
+  "eggPlugin": {
+    "name": "useragent"
+  },
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "egg-useragent",
+    "egg-ua",
+    "useragent"
+  ],
+  "dependencies": {
+    "@tool-developer/koa-useragent": "^0.0.3"
+  },
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "autod-egg": "^1.1.0",
+    "egg": "^2.16.0",
+    "egg-bin": "^4.11.0",
+    "egg-ci": "^1.11.0",
+    "egg-mock": "^3.21.0",
+    "eslint": "^5.13.0",
+    "eslint-config-egg": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "npm run lint -- --fix && egg-bin pkgfiles && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "egg-bin pkgfiles --check && npm run lint && npm run cov",
+    "pkgfiles": "egg-bin pkgfiles",
+    "autod": "autod"
+  },
+  "files": [
+    "config",
+    "agent.js",
+    "app.js"
+  ],
+  "ci": {
+    "version": "8, 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tool-developer/egg-useragent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tool-developer/egg-useragent/issue"
+  },
+  "homepage": "https://github.com/tool-developer/egg-useragent#readme",
+  "author": "@tool-developer",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}

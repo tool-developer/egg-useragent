@@ -1,0 +1,248 @@
+{
+  "keys": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/test/fixtures/apps/useragent-test/config/config.default.js",
+  "useragent": {
+    "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/test/fixtures/apps/useragent-test/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "name": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "version": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "strict": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "depth": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "env": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "level": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.unittest.js",
+    "appLogName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "logging": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "port": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/donghanji/workspace/git/myself/egg-plugin/egg-useragent/node_modules/egg/config/config.default.js"
+}

@@ -598,10 +598,17 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tool-developer/koa-useragent@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.npmjs.org/@tool-developer/koa-useragent/-/koa-useragent-0.0.3.tgz#0f17a9dc7520fc75cbf8e518c8c965ecc9ea5473"
-  integrity sha512-7GA5h1BujSZsENDEUn8/HBYygJOBIUdZlRZmqiZpt303ew6QdRFs0YAgtdgiKSjE1o7TAk12/3SZ3LM3hNYU/A==
+"@tool-developer/koa-useragent@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@tool-developer/koa-useragent/-/koa-useragent-1.0.0.tgz#e7836e3d4045c579574c64f644d37efa84eac022"
+  integrity sha512-tYvpM3ZS3Ycww1hVYk+bQ3rimLxJKULH2XH1DaZGh3/Nh60aLAtIT+La7xh0qyK5Az3d1u4JjaOXbEyJuLkFXQ==
+  dependencies:
+    "@tool-developer/wo-useragent" "^0.0.1"
+
+"@tool-developer/wo-useragent@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/@tool-developer/wo-useragent/-/wo-useragent-0.0.1.tgz#cafb43585acc7247d9352abca9cb3fb576c9b33b"
+  integrity sha512-auhZWs5A4s+fD9e93TjREUuGb5Ra4oUCKK/xAGz2dTjzLqOCw/R46mnuPqFE3rfcYqIywlhf/bxi7wCBPjCOSw==
 
 "@tootallnate/once@1":
   version "1.1.2"

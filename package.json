@@ -1,6 +1,6 @@
 {
   "name": "@tool-developer/egg-useragent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useragent plugin for egg",
   "eggPlugin": {
     "name": "useragent"
@@ -14,7 +14,7 @@
     "useragent"
   ],
   "dependencies": {
-    "@tool-developer/koa-useragent": "^1.0.0"
+    "@tool-developer/koa-useragent": "^1.0.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",

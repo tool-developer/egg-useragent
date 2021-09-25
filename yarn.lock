@@ -598,10 +598,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tool-developer/koa-useragent@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@tool-developer/koa-useragent/-/koa-useragent-1.0.0.tgz#e7836e3d4045c579574c64f644d37efa84eac022"
-  integrity sha512-tYvpM3ZS3Ycww1hVYk+bQ3rimLxJKULH2XH1DaZGh3/Nh60aLAtIT+La7xh0qyK5Az3d1u4JjaOXbEyJuLkFXQ==
+"@tool-developer/koa-useragent@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/@tool-developer/koa-useragent/-/koa-useragent-1.0.1.tgz#d7b4a0535b0eaca71fb142335f7b857c202b8ea0"
+  integrity sha512-NzkiLllYym8K7gYlBUL2370F3jXWD1uFp82amxSrRkgHu1TFxfP+6r1xGQAd5iKuKCDwTua5lNIAtoXhH5tD6A==
   dependencies:
     "@tool-developer/wo-useragent" "^0.0.1"
 
